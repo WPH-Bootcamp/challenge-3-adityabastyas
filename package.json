@@ -2,11 +2,10 @@
   "name": "habit-tracker-cli-challenge-3",
   "version": "1.0.0",
   "description": "Assignment Challenge 3: Aplikasi CLI untuk tracking kebiasaan harian",
-  "main": "app.js",
+  "main": "app-template.js",
   "scripts": {
-    "start": "node app.js",
-    "solution": "node app-solution.js",
-    "test": "echo \"Run: node app.js to start the application\""
+    "start": "node app-template.js",
+    "test": "echo \"Run: npm start to launch the Habit Tracker CLI\""
   },
   "keywords": [
     "habit-tracker",
@@ -17,8 +16,8 @@
     "assignment",
     "learning"
   ],
-  "author": "Aditya Bastyas Mulya",
-  "license": "ISC",
+  "author": "Aditya Bastyas",
+  "license": "MIT",
   "engines": {
     "node": ">=14.0.0"
   },
